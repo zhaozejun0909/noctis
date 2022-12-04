@@ -36,21 +36,21 @@ export default syntax => ({
     // ---------------------------
     "sideBar.background": "#17232b",
     "sideBar.dropBackground": "#17232b",
-    "sideBar.border": "#101213",
+    "sideBar.border": "#ffffff00",
     "sideBar.foreground": "#96a8b6",
-    "sideBarSectionHeader.background": "#202e37",
+    "sideBarSectionHeader.background": "#ffffff00",
     "sideBarSectionHeader.foreground": "#96a8b6",
     "sideBarTitle.foreground": "#96a8b6",
-    "sideBarSectionHeader.border": "#101213",
+    "sideBarSectionHeader.border": "#ffffff00",
     // ---------------------------
     // Status Bar
     // ---------------------------
     "statusBar.foreground": "#496d83",
     "statusBar.background": "#1b2932",
-    "statusBar.border": "#101213",
+    "statusBar.border": "#ffffff00",
     "statusBar.debuggingBackground": "#1b2932",
     "statusBar.debuggingForeground": "#d2799850",
-    "statusBar.debuggingBorder": "#d27998af",
+    "statusBar.debuggingBorder": "#ffffff00",
     "statusBar.noFolderForeground": "#98a6ae",
     "statusBar.noFolderBackground": "#1b2932",
     "statusBar.noFolderBorder": "#1b2932",
@@ -98,7 +98,7 @@ export default syntax => ({
     // ---------------------------
     "editorGroupHeader.noTabsBackground": "#202e37",
     "editorGroupHeader.tabsBackground": "#24333d",
-    "editorGroupHeader.tabsBorder": "#202e37",
+    "editorGroupHeader.tabsBorder": "#ffffff00",
     // ---------------------------
     // Editor Tabs
     // ---------------------------
@@ -111,10 +111,10 @@ export default syntax => ({
     "tab.inactiveForeground": "#96a8b6",
     "tab.unfocusedActiveForeground": "#96a8b6",
     "tab.unfocusedInactiveForeground": "#96a8b6",
-    "tab.activeBorderTop": "#5998c0",
-    "tab.activeModifiedBorder": "#72c09f",
-    "tab.activeBorder": "#1b2932",
-    "tab.unfocusedActiveBorder": "#1b2932",
+    "tab.activeBorderTop": "#ffffff00",
+    "tab.activeModifiedBorder": "#ffffff00",
+    "tab.activeBorder": "#ffffff00",
+    "tab.unfocusedActiveBorder": "#ffffff00",
     "tab.unfocusedHoverBackground": "#5998c021",
     // ---------------------------
     // Text Colors
@@ -153,13 +153,13 @@ export default syntax => ({
     // Editor Widgets
     // ---------------------------
     "editorWidget.background": "#202e37",
-    "editorWidget.border": "#101213",
-    "editorHoverWidget.background": "#14242e",
-    "editorHoverWidget.border": "#101213",
-    "editorSuggestWidget.background": "#14242e",
-    "editorSuggestWidget.border": "#101213",
+    "editorWidget.border": "#202e37",
+    "editorHoverWidget.background": "#1E1E1E",
+    "editorHoverWidget.border": "#ffffffe2",
+    "editorSuggestWidget.background": "#1E1E1E",
+    "editorSuggestWidget.border": "#ffffffe2",
     "editorSuggestWidget.foreground": "#96a8b6",
-    "editorSuggestWidget.highlightForeground": "#5998c0",
+    "editorSuggestWidget.highlightForeground": "#ffffff00",
     "editorSuggestWidget.selectedBackground": "#2c414e",
     // ---------------------------
     // Gutter
@@ -180,8 +180,8 @@ export default syntax => ({
     "editor.findMatchHighlightBackground": "#0e667179",
     "editor.findRangeHighlightBackground": "#72c09f22",
     "editor.hoverHighlightBackground": "#496d833f",
-    "editor.lineHighlightBackground": "#1d3544ee",
-    "editor.lineHighlightBorder": "#1d3544",
+    "editor.lineHighlightBackground": "#00000022",
+    "editor.lineHighlightBorder": "#00000022",
     "editor.rangeHighlightBackground": "#72b7c022",
     "editorLink.activeForeground": "#649fc4",
     "editorWhitespace.foreground": "#ffffff21",
@@ -382,10 +382,10 @@ export default syntax => ({
     // ---------------------------
     // Snippets
     // ---------------------------
-    "editor.snippetTabstopHighlightBackground": "#0e1920",
-    "editor.snippetTabstopHighlightBorder": "#17232b",
-    "editor.snippetFinalTabstopHighlightBackground": "#0e1920",
-    "editor.snippetFinalTabstopHighlightBorder": "#17232b",
+    "editor.snippetTabstopHighlightBackground": "#7c7c7c4c",
+    "editor.snippetTabstopHighlightBorder": "#7c7c7c4c",
+    "editor.snippetFinalTabstopHighlightBackground": "#7c7c7c4c",
+    "editor.snippetFinalTabstopHighlightBorder": "#7c7c7c4c",
     // ---------------------------
     // Minimap
     // ---------------------------
