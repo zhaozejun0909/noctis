@@ -155,11 +155,11 @@ export default syntax => ({
     "editorWidget.background": "#202e37",
     "editorWidget.border": "#202e37",
     "editorHoverWidget.background": "#1E1E1E",
-    "editorHoverWidget.border": "#ffffffe2",
+    "editorHoverWidget.border": "#ffffff33",
     "editorSuggestWidget.background": "#1E1E1E",
-    "editorSuggestWidget.border": "#ffffffe2",
+    "editorSuggestWidget.border": "#ffffff33",
     "editorSuggestWidget.foreground": "#96a8b6",
-    "editorSuggestWidget.highlightForeground": "#ffffff00",
+    "editorSuggestWidget.highlightForeground": "#5998c0",
     "editorSuggestWidget.selectedBackground": "#2c414e",
     // ---------------------------
     // Gutter
