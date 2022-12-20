@@ -6,7 +6,7 @@
       "descriptionForeground": "#6496b4",
       "errorForeground": "#b96346",
       "widget.shadow": "#00000044",
-      "editor.background": "#1b2932",
+      "editor.background": "#00000000",
       "editor.foreground": "#c5cdd3",
       "editorLineNumber.foreground": "#5d6e79",
       "editorLineNumber.activeForeground": "#6496b4",
